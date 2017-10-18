@@ -1,0 +1,37 @@
+languageCode = "en-us"
+title = "JJ"
+baseurl = "https://jjanczyszyn.com/"
+theme = "aerial"
+
+[params]
+  name = "Justyna Janczyszyn"
+  about = "Software Engineer &nbsp;&bull;&nbsp; Back-end &nbsp;&bull;&nbsp; Devops &nbsp;&bull;&nbsp; Serverless"
+  copyright = "JJanczyszyn"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/JJanczyszyn"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/tramwaj29"
+
+[[params.social]]
+  medium = "Instagram"
+  icon = "instagram"
+  link = "https://instagram.com/geekgirl8/"
+
+[[params.social]]
+  medium = "Resume"
+  icon = "file-text-o"
+  link = "https://jjanczyszyn.com/resume.pdf"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:justyna.janczyszyn@gmail.com"
